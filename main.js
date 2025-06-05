@@ -19,7 +19,7 @@ function generateTable() {
         output.innerHTML = table.printTable(value);
     }
     else {
-        output.innerHTML = "Please enter a valid number.";
+        output.innerHTML = "Please enter a valid number (1-16 digits).";
     }
 }
 // Make it globally accessible for button onclick
