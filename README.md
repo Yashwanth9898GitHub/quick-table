@@ -8,27 +8,41 @@ While learning TypeScript, I wanted to build a small but meaningful project to g
 This project is a small attempt to reduce search time and help kids learn tables more efficiently.
 
 🚀 Features
+
 Input any number to view its multiplication table
+
 Instant output display
+
 Clean and minimal design
+
 Built entirely with TypeScript
 
 🛠 Tech Stack
+
 TypeScript
+
 HTML
+
 CSS
 
 🖥️ How to Run Locally
+
 Clone the repository
 > git clone https://github.com/your-username/table-teller.git
+> 
 cd table-teller
+
 Compile the TypeScript file
+
 > tsc main.ts
+> 
 This will generate a main.js file in the same directory.
 
 Open the project
+
 Open index.html in your browser to run the app and test the functionality.
 
 ✍️ Author
+
 Made with ❤️ by a TypeScript beginner, aiming to help kids and practice new skills.
 
