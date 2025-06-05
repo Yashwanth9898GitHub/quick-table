@@ -48,3 +48,5 @@ Open index.html in your browser to run the app and test the functionality.
 
 Made with ❤️ by a TypeScript beginner, aiming to help kids and practice new skills.
 
+
+
