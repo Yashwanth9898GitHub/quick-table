@@ -2,6 +2,7 @@
 A simple TypeScript-based web application that allows users—especially kids—to quickly view multiplication tables by entering any number. This project was created as a beginner-friendly learning exercise while exploring TypeScript.
 
 🧠 Problem Statement :
+
 While learning TypeScript, I wanted to build a small but meaningful project to get hands-on experience. I realized that many kids waste time searching for multiplication tables on the internet. To solve this, I built a simple, fast-loading website where a child can just enter a number, click a button, and instantly see the full multiplication table—without ads or distractions.
 
 This project is a small attempt to reduce search time and help kids learn tables more efficiently.
