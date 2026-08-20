@@ -1,5 +1,7 @@
-# quick-table (demo:https://yashwanth9898github.github.io/quick-table/)
+# quick-table
 A simple TypeScript-based web application that allows users—especially kids—to quickly view multiplication tables by entering any number. This project was created as a beginner-friendly learning exercise while exploring TypeScript.
+
+demo:https://yashwanth9898github.github.io/quick-table/
 
 🧠 Problem Statement :
 
